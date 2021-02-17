@@ -15,13 +15,13 @@ namespace ConsoleAppEntity
 
             db.Database.Migrate();
 
-            //InserirDados();
-            //InserirDadosEmMassa();
-            //ConsultarDados();
-            //CadastrarPedido();
-            //ConsultarPedidoCarregamentoAdiantado();
-            //AtualizarDados();
-            //RemoverRegistro();
+            // InserirDados();
+            // InserirDadosEmMassa();
+            // ConsultarDados();
+            // CadastrarPedido();
+            // ConsultarPedidoCarregamentoAdiantado();
+            // AtualizarDados();
+            // RemoverRegistro(); 
 
         }
 
